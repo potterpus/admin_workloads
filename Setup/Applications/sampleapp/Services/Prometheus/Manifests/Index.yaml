@@ -1,9 +1,0 @@
-harnessApiVersion: '1.0'
-type: APPLICATION_MANIFEST
-gitFileConfig:
-  branch: master
-  connectorName: GitHub Harness Admin
-  filePath: prometheus
-  useBranch: true
-  useInlineServiceDefinition: false
-storeType: Remote
